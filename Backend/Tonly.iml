@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="AdditionalModuleElements">
+    <content url="jar://$MODULE_DIR$/../RECESS/mysql-connector-j-8.3.0.jar!/">
+      <sourceFolder url="jar://$MODULE_DIR$/../RECESS/mysql-connector-j-8.3.0.jar!/" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+  </component>
+</module>
